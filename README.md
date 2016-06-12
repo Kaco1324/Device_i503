@@ -1,2 +1,2 @@
-# Device_i503
-Device Tree For Nomi i503 (sc7731)
+# android_device_Nomi_i503
+Device tree for Nomi i503
